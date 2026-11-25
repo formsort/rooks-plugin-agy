@@ -1,0 +1,34 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "rooks",
+  "displayName": "Rooks",
+  "version": "0.2.3",
+  "description": "Build online forms, surveys, and intake forms on Rooks by describing them. Create, edit, preview, and publish forms that Rooks hosts.",
+  "logo": "assets/icon.png",
+  "suggestedPrompts": [
+    "Use Rooks, check my connection, and show my workspaces.",
+    "Create a consultation form with contact details on the first page.",
+    "Show the follow-up question only when someone chooses Other."
+  ],
+  "author": {
+    "name": "Formsort"
+  },
+  "homepage": "https://rooks.ai",
+  "repository": "https://github.com/formsort/rooks-plugin-agy",
+  "license": "MIT",
+  "keywords": [
+    "form builder",
+    "ai form builder",
+    "online form",
+    "survey",
+    "questionnaire",
+    "intake form",
+    "registration form",
+    "feedback form",
+    "lead capture",
+    "conditional logic",
+    "file upload",
+    "form hosting",
+    "hipaa"
+  ]
+}

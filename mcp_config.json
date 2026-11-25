@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "rooks": {
+      "serverUrl": "https://app.rooks.ai/mcp"
+    }
+  }
+}
